@@ -1,0 +1,1 @@
+export const API_URL="https://script.google.com/macros/s/AKfycbzVTIRFC0aOkf71IQONrDkl7BkBy4rJWlM6_uDKURABRiTQCZSEpNw-tV-fM13SwWA/exec";export const APP_NAME="Associação Bairro Unido";
